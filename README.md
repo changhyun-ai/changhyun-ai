@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Changhyun
 
-<!--
-**changhyun-ai/changhyun-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with experience in FinOps and cloud cost analytics.
 
-Here are some ideas to get you started:
+I build data-driven systems and AI-powered analytics tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- SQL
+- Pandas
+- Data Visualization
+- Cloud Cost Analysis
+- AI Data Analytics
+
+## Projects
+
+### AI FinOps Cost Analysis Agent
+AI-powered data analyst agent that analyzes cloud cost data using natural language queries.
+
+### Cloud Cost Monitoring Dashboard
+Dashboard for analyzing AWS cost trends and detecting anomalies.
+
+## Interests
+
+- FinOps
+- AI Data Analytics
+- Cloud Cost Optimization
